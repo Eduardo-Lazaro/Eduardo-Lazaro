@@ -1,4 +1,4 @@
-Olá! Eu sou eduardo lázaro
+Olá! Eu sou eduardo lázar
 
 - 😁 Cursando Analise e Desenvolvimento de Sistemas - Unimar (Bolsa 100%)
 - ✨ Atualmente trabalhando com NFT e Criptomoedas
@@ -8,7 +8,7 @@ Olá! Eu sou eduardo lázaro
 <div align="center">
   <a href="https://github.com/Eduardo-Lazaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Lazaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Lazaro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Lazaro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
